@@ -1,5 +1,3 @@
+# Welcome to Sbound profile on Github
 
-# Sbound
-
-Olá somos uma empresa de Desenvolvimento de aplicações Web.
-
+We are trying to make a living as software developers using our knowleadge as the tool for that purpose.
